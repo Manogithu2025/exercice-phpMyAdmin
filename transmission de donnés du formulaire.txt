@@ -1,0 +1,4 @@
+<form action="get_data.php" method="GET" class="formulaire">
+var_dump($_GET); -----> transmission de donnés du formulaire
+
+    var_dump($ligne); 
